@@ -1,0 +1,21 @@
+body{
+    background-color: bisque;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: center;
+    font-style: italic;
+}
+
+.top{
+    color: black;
+    font-size: 40px;
+    background-color: blanchedalmond;
+    padding: 2%;
+    border-style: groove;
+    border-color: pink;
+}
+
+img{
+    border-radius: 3%;
+    border-color: black;
+    border-style: groove;
+}

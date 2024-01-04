@@ -1,0 +1,16 @@
+*{
+    font-size: 30px;
+}
+
+.boxone{
+    background-color: red;
+    padding: 20px;
+    border: 10px solid blue;
+    margin: 60px;
+}
+.boxtwo{
+    background-color: red;
+    padding: 10px;
+    border: 10px solid blue;
+    margin: 0px;
+}

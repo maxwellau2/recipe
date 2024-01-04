@@ -1,0 +1,32 @@
+/* *{
+    border: 2px solid red;
+} */
+
+body{
+    background-color: bisque;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.centre{
+    padding-left: 20%;
+    padding-right: 20%;
+}
+
+
+.headers{
+    font-weight: bold;
+    text-decoration: underline;
+    text-align: center;
+    font-size: 30px;
+}
+.title{
+    font-size: 40px;
+    font-style: italic;
+}
+
+.imgcentre{
+    display : block;
+    margin-left: auto;
+    margin-right: auto;
+    /* width: 35%; */
+}
